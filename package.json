@@ -1,0 +1,24 @@
+{
+  "name": "tejanotechwebsite",
+  "version": "1.0.0",
+  "description": "Website for Tejano Tech Solutions website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alans200/TejanoTechWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alans200/TejanoTechWebsite/issues"
+  },
+  "homepage": "https://github.com/alans200/TejanoTechWebsite#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
